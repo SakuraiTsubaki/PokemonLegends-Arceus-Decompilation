@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "repository": "SakuraiTsubaki/PokemonLegends-Arceus-Decompilation",
+  "target": "Pokémon Legends: Arceus",
+  "generation": "Generation VIII",
+  "objective": "zero-known-reproducible-unintended-defects",
+  "target_identity_required": true,
+  "allowed_evidence": ["reported", "probable", "confirmed", "not-a-bug"],
+  "allowed_status": ["open", "investigating", "fix-ready", "fixed-unverified", "verified-fixed", "not-a-bug", "duplicate"],
+  "categories": ["crash", "hang", "softlock", "progression", "save-data", "battle-order", "move-logic", "ai-behavior", "data", "quest-event", "field-capture", "alpha", "space-time-distortion", "mass-outbreak", "massive-mass-outbreak", "ride-pokemon", "crafting-inventory", "map-collision", "graphics-ui", "audio", "localization-text", "performance", "resource-lifetime", "update-regression", "other"],
+  "items": []
+}
